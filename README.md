@@ -79,27 +79,22 @@
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=milan-7417&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/milan-kumar-14167a30b">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/milan-7417">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.kaggle.com/raimilanbr22">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
