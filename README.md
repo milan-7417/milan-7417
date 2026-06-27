@@ -1,4 +1,129 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Milan Kumar</h1>
+<h3 align="center">AI & Machine Learning Enthusiast | Data Science Student | Building Intelligent Solutions</h3>
+
+<p align="center">
+  <i>"Data reveals patterns. Machine Learning discovers them. Artificial Intelligence transforms them into decisions."</i>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science (AI & ML)
+- 💡 Passionate about solving real-world problems using AI and Data Science
+- 🚀 Building intelligent AI applications from research to deployment
+- 🤝 Open to collaborations on AI, ML, and Open Source projects
+- 🎯 Aspiring **Data Scientist | Machine Learning Engineer | AI Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+### Machine Learning & AI
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Natural Language Processing (NLP)
+- Explainable AI (XAI)
+- Computer Vision
+
+### Libraries & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+</p>
+
+**Libraries**
+
+- Scikit-learn
+- TensorFlow
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Streamlit
+
+---
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=milan-7417&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-7417&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=milan-7417&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=milan-7417&theme=algolia&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/milan-kumar-14167a30b">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/milan-7417">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.kaggle.com/raimilanbr22">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</p>
+
+📧 **Email:** mrai48851@gmail.com
+
+---
+
+## 👀 Profile Views
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=milan-7417&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+"Transforming data into insights, models into intelligence, and ideas into impactful solutions."
+</h3>
 
 <!--
 **milan-7417/milan-7417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
