@@ -63,10 +63,9 @@
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=milan-7417&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=milan-7417&show_icons=true&theme=github_dark&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-7417&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
