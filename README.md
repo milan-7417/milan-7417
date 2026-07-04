@@ -75,6 +75,7 @@
 - Matplotlib
 - Seaborn
 - Streamlit
+- XGBoost
 
 ### Deployment
 
