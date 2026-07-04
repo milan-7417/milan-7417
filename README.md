@@ -58,9 +58,9 @@
 
 <!-- Scikit-learn -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
 <!-- Streamlit -->
 <img src="https://cdn.simpleicons.org/streamlit/FFFFFF" width="48" height="48" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white" />
 
 
 </p>
