@@ -27,6 +27,8 @@
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" width="48" height="48"/>
 </p>
 
 ### Machine Learning & AI
@@ -36,7 +38,6 @@
 - Generative AI
 - Natural Language Processing (NLP)
 - Explainable AI (XAI)
-- Computer Vision
 
 ### Libraries & Frameworks
 
