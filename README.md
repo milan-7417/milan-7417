@@ -77,18 +77,12 @@
 ## Deployment
 
 <p align="left">
-  <!-- Streamlit -->
-  <img src="https://skillicons.dev/icons?i=streamlit" />
-
-  <!-- Render -->
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48"/>
-
-  <!-- Railway -->
-  <img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" height="48"/>
-
-  <!-- Hugging Face -->
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render"/>
+  <img src="https://cdn.simpleicons.org/railway" width="48" height="48" alt="Railway"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face"/>
 </p>
+
 ---
 
 
