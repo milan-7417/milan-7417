@@ -79,7 +79,7 @@
 ### Deployment
 
 <p align="left">
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="45"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
   <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render"/>
   <img src="https://cdn.simpleicons.org/railway/FF4B4B" width="48" height="48" alt="Railway"/>
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face"/>
