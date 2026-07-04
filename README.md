@@ -60,7 +60,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
 <!-- Streamlit -->
 <img src="https://cdn.simpleicons.org/streamlit/FFFFFF" width="48" height="48" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white" />
+<a href="https://xgboost.ai/">
+  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png"
+       alt="XGBoost"
+       width="48"
+       height="48"
+       style="border-radius:10px; background-color:white; padding:4px;">
+</a>
 
 
 </p>
