@@ -65,10 +65,9 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=milan-7417&show_icons=true&theme=nightowl&hide_border=true"/>
-  <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=milan-7417&layout=compact&theme=tokyonight"
-/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=milan-7417&theme=github-compact&hide_border=true" width="100%"/>
+</p>
 </p>
 
 <p align="center">
