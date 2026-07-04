@@ -60,7 +60,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
 
 <!-- Streamlit -->
-<img src="https://skillicons.dev/icons?i=streamlit" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 </p>
 
 **Libraries**
@@ -74,7 +75,7 @@
 - Seaborn
 - Streamlit
 
-## Deployment
+### Deployment
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
