@@ -76,6 +76,17 @@
 
 ---
 
+## Deployment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=streamlit" />
+  <img src="https://cdn.simpleicons.org/render" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/railway" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/huggingface" width="48" height="48"/>
+</p>
+
+---
+
 
 ## 📊 GitHub Analytics
 
