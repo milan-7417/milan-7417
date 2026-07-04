@@ -60,8 +60,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
 <!-- Streamlit -->
 <img src="https://cdn.simpleicons.org/streamlit/FFFFFF" width="48" height="48" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
-
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white"
+     width="140"
+     height="35" />
 </p>
 
 **Libraries**
