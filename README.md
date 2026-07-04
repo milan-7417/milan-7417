@@ -74,17 +74,21 @@
 - Seaborn
 - Streamlit
 
----
-
 ## Deployment
 
 <p align="left">
+  <!-- Streamlit -->
   <img src="https://skillicons.dev/icons?i=streamlit" />
-  <img src="https://cdn.simpleicons.org/render" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/railway" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/huggingface" width="48" height="48"/>
-</p>
 
+  <!-- Render -->
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48"/>
+
+  <!-- Railway -->
+  <img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" height="48"/>
+
+  <!-- Hugging Face -->
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48"/>
+</p>
 ---
 
 
