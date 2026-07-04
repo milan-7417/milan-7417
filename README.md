@@ -61,8 +61,8 @@
 <!-- Streamlit -->
 <img src="https://cdn.simpleicons.org/streamlit/FFFFFF" width="48" height="48" alt="Streamlit"/>
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white"
-     width="140"
-     height="35" />
+     width="48"
+     height="48" />
 </p>
 
 **Libraries**
