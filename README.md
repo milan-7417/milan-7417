@@ -44,15 +44,30 @@
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 <img src="https://skillicons.dev/icons?i=fastapi" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
+<!-- Pandas -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+
+<!-- NumPy -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+
+<!-- Matplotlib -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48"/>
+
+<!-- Seaborn -->
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48"/>
+
+<!-- Scikit-learn -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
+
+<!-- Streamlit -->
+<img src="https://skillicons.dev/icons?i=streamlit" />
 </p>
 
 **Libraries**
 
 - Scikit-learn
 - TensorFlow
+- FastApi
 - Pandas
 - NumPy
 - Matplotlib
