@@ -60,7 +60,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
 <!-- Streamlit -->
 <img src="https://cdn.simpleicons.org/streamlit/FFFFFF" width="48" height="48" alt="Streamlit"/>
-<img src="./assets/xgboost.svg" width="48" height="48" alt="XGBoost"/>
+<img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.svg" width="48" height="70" alt="XGBoost"/>
 
 
 </p>
